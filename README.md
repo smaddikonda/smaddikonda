@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Profile Banner](https://github.com/smaddikonda/smaddikonda/blob/master/profile.png)
+
 <!--
 **smaddikonda/smaddikonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
