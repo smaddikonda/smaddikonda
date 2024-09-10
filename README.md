@@ -1,4 +1,4 @@
-[![Sai Maddikonda Profile Banner](https://github.com/smaddikonda/smaddikonda/blob/master/profile2.png)](https://www.smaddikonda.com)
+[![Sai Maddikonda Profile Banner](https://github.com/smaddikonda/smaddikonda/blob/master/profile.png)](https://www.smaddikonda.com)
 
 
 # Hi there!
