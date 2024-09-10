@@ -4,7 +4,7 @@
 # Hi there!
 I love crafting software, for there is not a field more that's fascinating to me than software development. My programming philosophy is simple: to build software with passion and purpose.
 
-I have been developing software professionally for the past 5+ years, and have an overall coding experience of 11+ years, using multiple programming languages and paradigms.
+I have been developing software professionally for the past 8 years, and have an overall coding experience of 13 years, using multiple programming languages and paradigms.
 
 I'm passionate about building scalable, performant, distributed, data-intensive, full-stack software applications, which are intuitive and user-centric on the frontend, and robust and reliable on the backend.
 
