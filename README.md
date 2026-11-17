@@ -1,14 +1,12 @@
-[![Sai Maddikonda Profile Banner](https://github.com/smaddikonda/smaddikonda/blob/master/profile.png)](https://www.smaddikonda.com)
+[![Sai Maddikonda Profile Banner](https://github.com/smaddikonda/smaddikonda/blob/master/new-profile.png)](https://www.smaddikonda.com)
 
 
 # Hi there!
-I love crafting software, for there is not a field more that's fascinating to me than software development. My programming philosophy is simple: to build software with passion and purpose.
+I love building software — the craft, the problem-solving, and the satisfaction of seeing an idea become something people rely on. Over nearly a decade of professional work, I've built across the stack, with a focus on distributed systems, cloud applications, and, more recently, AI.
 
-I have been developing software professionally for the past 8 years, and have an overall coding experience of 13 years, using multiple programming languages and paradigms.
+I care about understanding the problem, making thoughtful decisions, and seeing things through — from the first sketch to launch and beyond. I'm quietly confident in my craft, curious about what I don't yet know, and always finding ways to get better.
 
-I'm passionate about building scalable, performant, distributed, data-intensive, full-stack software applications, which are intuitive and user-centric on the frontend, and robust and reliable on the backend.
-
-I'm quietly confident at the work I do, innately curious, an eternal seeker of knowledge, and I'm improving my finesse everyday, one day at a time.
+Beyond software, I write, follow world affairs, and explore ideas across disciplines. I enjoy connecting those ideas, questioning my assumptions, and letting what I learn shape what I build and how I live.
 
 # Get in touch
-[Website](https://www.smaddikonda.com) | [LinkedIn](https://www.linkedin.com/in/smaddikonda) | [Twitter](https://www.twitter.com/smaddikonda) | [Contact Form](https://www.smaddikonda.com/contact)
+[Website](https://www.smaddikonda.com) | [Builder's Notes](https://www.smaddikonda.com/builder-notes) | [Personal Blog](https://blog.smaddikonda.com) | [LinkedIn](https://www.linkedin.com/in/smaddikonda) | [Contact Form](https://www.smaddikonda.com/contact)
